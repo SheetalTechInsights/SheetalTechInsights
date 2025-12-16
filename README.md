@@ -10,7 +10,7 @@ I enjoy solving real-world problems and building maintainable, scalable backend 
 
 ## 🛠️ Technical Skills
 
-- 💻 **Languages**: Java, C, SQL  
+- 💻 **Languages**: Java, C, SQL,React js
 - 🔧 **Core Concepts**:  
   - Object-Oriented Programming (OOP)  
   - Algorithm Optimization  
