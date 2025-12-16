@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Sheetal Patidar (aka SheetalTechInsights)
+# 👋 Hi there! I'm Sheetal Patidar 
 
 ## 🚀 About Me
 
