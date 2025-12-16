@@ -43,7 +43,7 @@ I enjoy solving real-world problems and building maintainable, scalable backend 
 ## 📫 Connect With Me
 
 - 📧 Email: [sheetalpatidar969@gmail.com](mailto:sheetalpatidar969@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/sheetalpatidar](www.linkedin.com/in/sheetal-patidar-9a0000292)
+- 🔗 LinkedIn: www.linkedin.com/in/sheetal-patidar-9a0000292
 
 ---
 
