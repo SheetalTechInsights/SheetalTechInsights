@@ -18,7 +18,7 @@ I enjoy solving real-world problems and building maintainable, scalable backend 
 - ⚙️ **Tools & Technologies**:  
   - Git & GitHub  
   - JDBC, MySQL  
-  - Spring Boot (Learning)  
+  - Spring Boot   
   - VS Code, IntelliJ IDEA  
 
 
@@ -34,6 +34,7 @@ I enjoy solving real-world problems and building maintainable, scalable backend 
 
 ## 📂 Notable Repositories
 
+- 🔸 [scm2.0](https://github.com/SheetalTechInsights/scm2.0)
 - 🔸 [DSA-Series](https://github.com/SheetalTechInsights/DSA-Series): Curated DSA problems by patterns (Java)
 - 🔸 [JDBC-Hotel-Management](https://github.com/SheetalTechInsights/JDBC-Hotel-Management): Console-based hotel management system
 - 🔸 [SpringBoot-ECommerce](https://github.com/SheetalTechInsights/SpringBoot-ECommerce): E-commerce backend with JWT auth (in progress)
