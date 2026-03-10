@@ -8,6 +8,16 @@ I enjoy solving real-world problems and building maintainable, scalable backend 
 
 ---
 
+## 💼 Experience
+
+**Frontend Developer Intern** – Proxenix  
+📅 Dec 2025 – Jan 2026  
+
+- Worked on developing responsive user interfaces using modern web technologies.
+- Collaborated with the development team to implement frontend features and improve UI/UX.
+- Integrated frontend components with backend APIs and ensured smooth user experience.
+- Followed version control practices using Git and GitHub during development.
+
 ## 🛠️ Technical Skills
 
 - 💻 **Languages**: Java, C, SQL,React js
@@ -40,7 +50,7 @@ I enjoy solving real-world problems and building maintainable, scalable backend 
 - 🔸 [AmazonClone](https://github.com/SheetalTechInsights/AmazonClone) – E-commerce platform clone with product listing, cart, and checkout features.
 - 🔸 [DSA-Series](https://github.com/SheetalTechInsights/DSA-Series): Curated DSA problems by patterns (Java)
 - 🔸 [Hotel Management System](https://github.com/SheetalTechInsights/JDBC-Hotel-Management): Console-based hotel management system
-- 🔸 [SpringBoot-ECommerce](https://github.com/SheetalTechInsights/SpringBoot-ECommerce): E-commerce backend with JWT auth (in progress)
+
 
 ---
 
