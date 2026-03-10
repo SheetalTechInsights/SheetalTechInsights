@@ -51,7 +51,7 @@ I enjoy solving real-world problems and building maintainable, scalable backend 
 
 ## 📂 Notable Repositories
 
-- 🔸 [scm2.0](https://github.com/SheetalTechInsights/scm2.0)
+- 🔸 [scm2.0](https://github.com/SheetalTechInsights/scm2.0) - A smart Contact Management System 
 - 🔸 [quiz-app](https://github.com/SheetalTechInsights/quiz-app) – A full-featured quiz application with scoring and question management.
 -  Live Demo: https://quiz-app-virid-iota.vercel.app 
 - 🔸 [expense-splitter](https://github.com/SheetalTechInsights/expense-splitter) – App to split and track shared expenses among friends.
