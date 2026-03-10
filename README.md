@@ -39,7 +39,7 @@ I enjoy solving real-world problems and building maintainable, scalable backend 
 - 🔸 [expense-splitter](https://github.com/SheetalTechInsights/expense-splitter) – App to split and track shared expenses among friends.  
 - 🔸 [AmazonClone](https://github.com/SheetalTechInsights/AmazonClone) – E-commerce platform clone with product listing, cart, and checkout features.
 - 🔸 [DSA-Series](https://github.com/SheetalTechInsights/DSA-Series): Curated DSA problems by patterns (Java)
-- 🔸 [JDBC-Hotel-Management](https://github.com/SheetalTechInsights/JDBC-Hotel-Management): Console-based hotel management system
+- 🔸 [Hotel-Management](https://github.com/SheetalTechInsights/JDBC-Hotel-Management): Console-based hotel management system
 - 🔸 [SpringBoot-ECommerce](https://github.com/SheetalTechInsights/SpringBoot-ECommerce): E-commerce backend with JWT auth (in progress)
 
 ---
