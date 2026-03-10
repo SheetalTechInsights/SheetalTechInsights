@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 
-I am a passionate and aspiring **Java Backend Developer** currently focused on mastering **Data Structures and Algorithms (DSA)** using Java. I have a strong foundation in **Object-Oriented Programming (OOP)** and am familiar with **C language** as well.
+I am a passionate and aspiring **Java Full Stack Developer** currently focused on mastering **Data Structures and Algorithms (DSA)** using Java. I have a strong foundation in **Object-Oriented Programming (OOP)** and am also familiar with the **C programming language**.
+
+I have hands-on experience in building **RESTful APIs** using **Spring Boot** and working with **relational databases like MySQL**. I follow **SOLID principles** and clean coding practices to design scalable and maintainable backend systems. I am also familiar with **Spring Security** for implementing authentication and authorization in backend applications.
 
 I enjoy solving real-world problems and building maintainable, scalable backend applications. Currently pursuing my Bachelor's degree in **Computer Science (AI & ML)** from **Acropolis Institute of Technology and Research, Indore**.
 
@@ -22,13 +24,18 @@ I enjoy solving real-world problems and building maintainable, scalable backend 
 
 - 💻 **Languages**: Java, C, SQL,React js
 - 🔧 **Core Concepts**:  
-  - Object-Oriented Programming (OOP)  
+  - Object-Oriented Programming (OOP)
+  - SOLID principles
+  - RESTful apis
+  - Spring Security
   - Algorithm Optimization  
   - Basic to Intermediate Problem Solving  
 - ⚙️ **Tools & Technologies**:  
   - Git & GitHub  
   - JDBC, MySQL  
-  - Spring Boot   
+  - Spring Boot
+  - Postman
+  - MySQL Workbench
   - VS Code, IntelliJ IDEA  
 
 
@@ -36,17 +43,19 @@ I enjoy solving real-world problems and building maintainable, scalable backend 
 
 ## 📌 Current Focus
 
-- ✅ Solving DSA problems regularly (by patterns like Sliding Window, Two Pointers, etc.)
-- 🔍 Exploring advanced algorithms and their real-life use cases
-- 🚀 Learning **Spring Boot** to build full-fledged Java backend applications
+-  Solving DSA problems regularly (by patterns like Sliding Window, Two Pointers, etc.)
+-  Exploring advanced algorithms and their real-life use cases
+-  Use **Spring Boot** to build full-fledged Java backend applications
 
 ---
 
 ## 📂 Notable Repositories
 
 - 🔸 [scm2.0](https://github.com/SheetalTechInsights/scm2.0)
-- 🔸 [quiz-app](https://github.com/SheetalTechInsights/quiz-app) – A full-featured quiz application with scoring and question management.  
-- 🔸 [expense-splitter](https://github.com/SheetalTechInsights/expense-splitter) – App to split and track shared expenses among friends.  
+- 🔸 [quiz-app](https://github.com/SheetalTechInsights/quiz-app) – A full-featured quiz application with scoring and question management.
+- 🌐 Live Demo: https://quiz-app-virid-iota.vercel.app 
+- 🔸 [expense-splitter](https://github.com/SheetalTechInsights/expense-splitter) – App to split and track shared expenses among friends.
+- 
 - 🔸 [AmazonClone](https://github.com/SheetalTechInsights/AmazonClone) – E-commerce platform clone with product listing, cart, and checkout features.
 - 🔸 [DSA-Series](https://github.com/SheetalTechInsights/DSA-Series): Curated DSA problems by patterns (Java)
 - 🔸 [Hotel Management System](https://github.com/SheetalTechInsights/JDBC-Hotel-Management): Console-based hotel management system
