@@ -53,9 +53,9 @@ I enjoy solving real-world problems and building maintainable, scalable backend 
 
 - 🔸 [scm2.0](https://github.com/SheetalTechInsights/scm2.0)
 - 🔸 [quiz-app](https://github.com/SheetalTechInsights/quiz-app) – A full-featured quiz application with scoring and question management.
-- 🌐 Live Demo: https://quiz-app-virid-iota.vercel.app 
+-  Live Demo: https://quiz-app-virid-iota.vercel.app 
 - 🔸 [expense-splitter](https://github.com/SheetalTechInsights/expense-splitter) – App to split and track shared expenses among friends.
-- 
+-    Live Demo: expense-splitter-inky.vercel.app
 - 🔸 [AmazonClone](https://github.com/SheetalTechInsights/AmazonClone) – E-commerce platform clone with product listing, cart, and checkout features.
 - 🔸 [DSA-Series](https://github.com/SheetalTechInsights/DSA-Series): Curated DSA problems by patterns (Java)
 - 🔸 [Hotel Management System](https://github.com/SheetalTechInsights/JDBC-Hotel-Management): Console-based hotel management system
